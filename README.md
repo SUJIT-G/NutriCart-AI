@@ -4,7 +4,7 @@ A serverless grocery list generator powered by Cloudflare Workers and AI.
 
 Select your diet (Keto, Vegan, etc.), choose the duration, and instantly generate a categorized shopping list based on your needs.
 
-**[🔴 LIVE DEMO HERE](https://yourusername.github.io/your-repo-name)**  
+**[🔴 LIVE DEMO HERE](https://sujit-g.github.io/NutriCart-AI/)**  
 *(Replace the link above after you enable GitHub Pages)*
 
 ## ✨ Features
@@ -23,4 +23,5 @@ Select your diet (Keto, Vegan, etc.), choose the duration, and instantly generat
 ## 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
+
    git clone https://github.com/yourusername/NutriCart-AI.git

@@ -21,3 +21,19 @@
 
 }
 
+"screenshots": [
+  {
+    "src": "assets/screenshots/screenshot1_20251219_235542_0000.png",
+    "sizes": "1080x1920",
+    "type": "image/png",
+    "form_factor": "narrow",
+    "label": "NutriCart AI on Mobile"
+  },
+  {
+    "src": "assets/screenshots/screenshot-desktop.png",
+    "sizes": "1920x1080",
+    "type": "image/png",
+    "form_factor": "wide",
+    "label": "NutriCart AI on Desktop"
+  }
+]
